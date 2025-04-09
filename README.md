@@ -55,15 +55,4 @@
 - **Python** (or **R**) – For data analysis and visualization.
 - **Office Suites / Google Docs** – Used for creating reports, documentation, and other textual data.
 
-## License
-
-> If you are releasing this project publicly, indicate the open-source license here (e.g., MIT, Apache, etc.). Otherwise, note whether it is for internal use only.
-
-## Contact Information
-
-- **Project Lead/Supervisor:** [Your Name or your Tutor’s Name] – [Email Address]
-- **GitHub Username:** [Your GitHub Username]
-- **Additional Contacts:** (Include any additional contact details if needed.)
-
-If you have any questions, want to contribute, or spot any issues, please open an issue or contact us directly. Thank you for your interest and support!
 
